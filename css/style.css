@@ -1,55 +1,57 @@
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    color: #333;
-    background-color: #41404e;
-    justify-items: center;
-    
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #41404e;
+  justify-items: center;
 }
 .container {
-    justify-items: center;
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 1vw;
-    background: #b5b5f5;
-    border-radius: 36px;
-    box-shadow: 0 20px 25px rgba(5, 2, 13, 0.1);
-    border: black;
+  justify-items: center;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 1vw;
+  background: #b5b5f5;
+  border-radius: 36px;
+  box-shadow: 0 20px 25px rgba(5, 2, 13, 0.1);
+  border: black;
 }
-h1{
-    font-size: 50px;
-    
+h1 {
+  font-size: 50px;
 }
 .section {
-    position: relative;
-    left: 10%;
-    max-width: 80%;
-    margin: 20px auto;
-    padding: 0px;
-    border-radius: 24px;
-    background-color: #d2d2ff;
-    text-align: center;
-    color: rgb(84, 134, 146);
+  position: relative;
+  left: 10%;
+  max-width: 80%;
+  margin: 20px auto;
+  padding: 0px;
+  border-radius: 24px;
+  background-color: #d2d2ff;
+  text-align: center;
+  color: rgb(84, 134, 146);
 }
 #subtitle {
-    max-width: 100%;
-    margin: 20px auto;
-    padding: 20px;
-    border-radius: 24px;
-    background-color: #7575cf;
-    text-align: center;
-    color: rgb(0, 0, 0);
+  max-width: 100%;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 24px;
+  background-color: #7575cf;
+  text-align: center;
+  color: rgb(0, 0, 0);
 }
 .contact {
-    margin: 10px 0;
-    font-size: 14px;
+  margin: 10px 0;
+  font-size: 14px;
 }
 .contact a {
-    color: #007bff;
-    text-decoration: none;
+  color: #007bff;
+  text-decoration: none;
 }
 .section {
-    margin: 20px 0;
+  margin: 20px 0;
+}
+#lowes {
+  width: 90%;
 }
